@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "Manohar Mulchandani"
+date: "10/01/2021"
+output: html_document
+---
+
+## Welcome to the Blog
+
